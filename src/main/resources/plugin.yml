@@ -1,0 +1,6 @@
+name: YonisSmellySocks
+version: 1.0.0
+main: com.yonis.smellysocks.YonisSmellySocks
+api-version: '1.21'
+load: POSTWORLD
+description: Cursed boots that smell terrible and inflict potion effects
